@@ -1,6 +1,6 @@
 # Medical-image-segmentation
 
-**Data augmentation for medical image segmentation**
+### Data augmentation for medical image segmentation
 [batchgenerators](https://github.com/MIC-DKFZ/batchgenerators)
 
 **Medical image segmentation models**
