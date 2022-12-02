@@ -13,4 +13,3 @@
 [SSL4MIS](https://github.com/HiLab-git/SSL4MIS)
 
 ### Domain adaptation for medical image segmentation
-[DAMIS](https://github.com/qiuchengjian/DA4MIS)
